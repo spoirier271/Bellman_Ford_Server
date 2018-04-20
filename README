@@ -1,0 +1,7 @@
+Language: C
+Description: Distributed Bellman Ford Server
+			 Server program that genertes, sends, receives and processes UDP packets to maintain the Bellman Ford Algorithm
+			 
+myserver.c: Server program that listens for incoming UDP packets containing topology updates as well as generate and distribute its own updates
+myunp.c: Wrapper functions for C POSIX socketlibrary
+myunp.h: Header for wrapper functions in myunp.c

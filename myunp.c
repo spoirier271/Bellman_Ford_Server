@@ -1,8 +1,4 @@
-/*
-*   File:       myunp.c
-*
-*   Purpose:    Wrapper functions for Unix Network Programming assignments.
-*/
+
 
 #include "myunp.h"
 

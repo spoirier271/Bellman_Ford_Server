@@ -1,8 +1,4 @@
-/**************
-Stephen Poirier
-CMPE 156
-ex5
-**************/
+
 
 #include "unp.h"
 #include <stdio.h>
